@@ -10,13 +10,6 @@ With hands-on experience in **MERN stack development**, real-time applications, 
 - 💳 Payment Integration (Stripe, Razorpay)  
 - ☁️ Cloud Deployment (Vercel, Render, AWS)
 
-## 🛠️ Tech Stack
-
-**Frontend:** React.js, Tailwind CSS, Zustand  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Authentication:** JWT, Clerk
-
 I’m continuously learning, experimenting with new technologies, and sharing projects that demonstrate my growth as a developer.  
 
 ---
