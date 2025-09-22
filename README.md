@@ -29,5 +29,5 @@ I specialize in the **MERN stack** and enjoy creating projects that integrate **
 ## 🎓 Education
 
 **Grand Canyon University (GCU)** – Bachelor of Science in Software Development  
-Expected Graduation: Dec 2028_  
+Expected Graduation: Dec 2028
 - Relevant Coursework: Full-Stack Web Development, Data Structures & Algorithms, Cloud Computing, Object-Oriented Programming  
