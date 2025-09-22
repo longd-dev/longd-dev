@@ -31,3 +31,10 @@ I specialize in the **MERN stack** and enjoy creating projects that integrate **
 **Grand Canyon University (GCU)** – Bachelor of Science in Software Development  
 Expected Graduation: Dec 2028
 - Relevant Coursework: Full-Stack Web Development, Data Structures & Algorithms, Cloud Computing, Object-Oriented Programming  
+
+---
+## ⚡ Fun / Personal Section
+
+- Prior military service as an **Electrical Systems Technician** for 5 years  
+- Developed strong problem-solving skills, attention to detail, and discipline  
+- Love building **interactive video games with C# and Unity**
