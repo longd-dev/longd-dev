@@ -33,7 +33,7 @@ Expected Graduation: Dec 2028
 - Relevant Coursework: Full-Stack Web Development, Data Structures & Algorithms, Cloud Computing, Object-Oriented Programming  
 
 ---
-## ⚡ Fun / Personal Section
+## ⚡ Personal Highlights
 
 - Prior military service as an **Electrical Systems Technician** for 5 years  
 - Developed strong problem-solving skills, attention to detail, and discipline  
