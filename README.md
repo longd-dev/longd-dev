@@ -8,7 +8,6 @@ I specialize in the **MERN stack** and enjoy creating projects that integrate **
 - Develop secure backend APIs with **Node.js** and **Express.js**, storing data in **MongoDB**  
 - Integrate real-time features with **Socket.IO** and implement **online payment gateways**  
 - Deploy full-stack applications on **Vercel**, **Render**, and **AWS**
-- As a side project, I love **creating video games using C# and Unity**, combining my passion for programming with interactive experiences  
 
 🚀 **I’m always learning, experimenting with new technologies, and turning ideas into functional products.** 
 
