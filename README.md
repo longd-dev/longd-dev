@@ -36,4 +36,3 @@ Expected Graduation: Spring 2028
 
 - Prior military service as an **Electrical Systems Technician** for 5 years  
 - Developed strong problem-solving skills, attention to detail, and discipline  
-- Love building **interactive video games with C# and Unity**
