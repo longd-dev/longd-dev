@@ -31,7 +31,9 @@ Expected Graduation: Spring 2028
 - Relevant Coursework: Full-Stack Web Development, Data Structures & Algorithms, Cloud Computing, Object-Oriented Programming  
 
 ---
-## ⚡ Personal Highlights
+## ⚡ Background
 
-- Prior military service as an **Electrical Systems Technician** for 5 years  
-- Developed strong problem-solving skills, attention to detail, and discipline  
+- 5 years in the U.S. Navy as an Electrical Systems Technician (Gas Turbine Systems Technician Electrical, GSE2)
+- Experienced in troubleshooting complex systems and solving problems under pressure  
+- Strong foundation in discipline, teamwork, and attention to detail  
+- Transitioned into full-stack development, applying structured problem-solving to building scalable web applications  
