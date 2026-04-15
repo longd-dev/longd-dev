@@ -33,7 +33,7 @@ Expected Graduation: Spring 2028
 ---
 ## ⚡ Background
 
-- 5 years in the U.S. Navy as an Electrical Systems Technician (Gas Turbine Systems Technician Electrical, GSE2)
-- Experienced in troubleshooting complex systems and solving problems under pressure  
-- Strong foundation in discipline, teamwork, and attention to detail  
+-5 years in the U.S. Navy as an Electrical Systems Technician (GSE2), served as a supervisor overseeing junior personell and coordinating maintenance tasks
+- Experienced in troubleshooting complex systems and solving problems under pressure
+- Strong foundation in discipline, leadership, teamwork, and attention to detail developed through military service and shift responsibilities
 - Transitioned into full-stack development, applying structured problem-solving to building scalable web applications  
